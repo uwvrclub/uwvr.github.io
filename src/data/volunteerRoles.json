@@ -1,0 +1,26 @@
+[
+    {
+        "org": "UW Debate Society",
+        "role": "President",
+        "date": "Spring 2020",
+        "imgLink": "/img/debate.png"
+    },
+    {
+        "org": "UW Virtual Reality Club",
+        "role": "Director of Marketing - Social Media",
+        "date": "Spring 2019",
+        "imgLink": "/img/vr.png"
+    },
+    {
+        "org": "UW Bengali Student Association",
+        "role": "Social Media and Marketing Director",
+        "date": "Winter 2019",
+        "imgLink": "/img/tiger-logo.png"
+    },
+    {
+        "org": "Technologics 2018",
+        "role": "Tournament Director",
+        "date": "Winter 2018",
+        "imgLink": "/img/onlinedebate.jpg"
+    }
+]
